@@ -24,10 +24,9 @@ body {
   outline: none;
 }
 
-.calculator-grid > button:hover, 
-.calculator-grid > button:focus{
+.calculator-grid > button:hover,
+.calculator-grid > button:focus {
   background-color: rgba(255, 255, 255, 0.75);
-
 }
 
 .span-two {
@@ -46,7 +45,6 @@ body {
   word-break: break-all;
   border: 1px solid grey;
   border-bottom: 0px;
-
 }
 
 .output .previous-operand {
